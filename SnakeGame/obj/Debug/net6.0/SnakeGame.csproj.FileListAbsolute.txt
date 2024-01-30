@@ -1,0 +1,29 @@
+\\Mac\Home\Desktop\SnakeGame\bin\Debug\net6.0\SnakeGame.exe
+\\Mac\Home\Desktop\SnakeGame\bin\Debug\net6.0\SnakeGame.deps.json
+\\Mac\Home\Desktop\SnakeGame\bin\Debug\net6.0\SnakeGame.runtimeconfig.json
+\\Mac\Home\Desktop\SnakeGame\bin\Debug\net6.0\SnakeGame.dll
+\\Mac\Home\Desktop\SnakeGame\bin\Debug\net6.0\SnakeGame.pdb
+\\Mac\Home\Desktop\SnakeGame\obj\Debug\net6.0\SnakeGame.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\SnakeGame\obj\Debug\net6.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\SnakeGame\obj\Debug\net6.0\SnakeGame.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\SnakeGame\obj\Debug\net6.0\SnakeGame.AssemblyInfo.cs
+\\Mac\Home\Desktop\SnakeGame\obj\Debug\net6.0\SnakeGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SnakeGame\obj\Debug\net6.0\SnakeGame.dll
+\\Mac\Home\Desktop\SnakeGame\obj\Debug\net6.0\refint\SnakeGame.dll
+\\Mac\Home\Desktop\SnakeGame\obj\Debug\net6.0\SnakeGame.pdb
+\\Mac\Home\Desktop\SnakeGame\obj\Debug\net6.0\SnakeGame.genruntimeconfig.cache
+\\Mac\Home\Desktop\SnakeGame\obj\Debug\net6.0\ref\SnakeGame.dll
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\bin\Debug\net6.0\SnakeGame.exe
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\bin\Debug\net6.0\SnakeGame.deps.json
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\bin\Debug\net6.0\SnakeGame.runtimeconfig.json
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\bin\Debug\net6.0\SnakeGame.dll
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\bin\Debug\net6.0\SnakeGame.pdb
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\obj\Debug\net6.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\obj\Debug\net6.0\SnakeGame.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\obj\Debug\net6.0\SnakeGame.AssemblyInfo.cs
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\obj\Debug\net6.0\SnakeGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\obj\Debug\net6.0\SnakeGame.dll
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\obj\Debug\net6.0\refint\SnakeGame.dll
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\obj\Debug\net6.0\SnakeGame.pdb
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\obj\Debug\net6.0\SnakeGame.genruntimeconfig.cache
+\\Mac\Home\Documents\3\John Abbott\01 - Fall 2022-Semester 1\Homeworks\Programming 1\SnakeGame\obj\Debug\net6.0\ref\SnakeGame.dll
