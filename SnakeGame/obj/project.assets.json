@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\elkanybek\\.nuget\\packages\\": {}
+    "C:\\Users\\elkanybek\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\3\\John Abbott\\01 - Fall 2022-Semester 1\\Homeworks\\Programming 1\\SnakeGame\\SnakeGame.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\Snake-Game\\SnakeGame\\SnakeGame.csproj",
       "projectName": "SnakeGame",
-      "projectPath": "\\\\Mac\\Home\\Documents\\3\\John Abbott\\01 - Fall 2022-Semester 1\\Homeworks\\Programming 1\\SnakeGame\\SnakeGame.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\Snake-Game\\SnakeGame\\SnakeGame.csproj",
       "packagesPath": "C:\\Users\\elkanybek\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\3\\John Abbott\\01 - Fall 2022-Semester 1\\Homeworks\\Programming 1\\SnakeGame\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\Snake-Game\\SnakeGame\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\elkanybek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

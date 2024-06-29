@@ -1,4 +1,5 @@
 ## Snake Game Overview
+Go to demo: [Game Demo](#game-demonstration) (click here)
 
 **Objective:** Guide the snake to eat 9 fruits, grow, and avoid collisions with walls.
 
@@ -48,3 +49,14 @@
 ### Note
 
 - Modify speed for different console sizes for optimal gameplay.
+
+
+### Game Demonstration
+>The instructions of the game is shown to the user.
+![Instruction Page](./demo/1.png)
+
+>Snake grows when it consumes a fruit, adding a segment to its body.
+![Game](./demo/2.png)
+
+>Display "Game Over" if the snake collides with a wall.
+![Game Over](./demo/3.png)
