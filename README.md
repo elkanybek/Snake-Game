@@ -1,4 +1,7 @@
-## Snake Game Overview
+# Snake Game
+
+> This project was developed for Programming 1 course at John Abbott College.
+
 Go to demo: [Game Demo](#game-demonstration) (click here)
 
 **Objective:** Guide the snake to eat 9 fruits, grow, and avoid collisions with walls.
